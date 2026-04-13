@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/chat_ui_lab/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/chat_ui_lab/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chat_ui_lab/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chat_ui_v2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/chat_ui_v2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chat_ui_v2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/fb_ui/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/fb_ui/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/fb_ui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/tiebreaker_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/tiebreaker_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/tiebreaker_app/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
